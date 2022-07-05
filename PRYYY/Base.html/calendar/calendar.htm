@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Anthed's Calendar</title>
+    <link href="stylesheets\calendar.css" type="text/css" rel="stylesheet" />
+    <script src="scripts\calendar.js"></script>
+    <style>
+        body    {background: #ffdd00}
+        .title  {font-family: Arial; font-size: 20px; color: #3300ff}
+        .detail {font-family: Arial; font-size: 14px; color: #9933ff; font-style: italic}
+        .advice {font-family: Arial; font-size: 14px; color: #00ccee; font-style: italic}
+    </style>
+</head>
+
+<body>
+    <form>
+        <table cellspacing="5" cellpadding="5" border="0" width="100%">
+            <tr>
+                <td align="center" colspan="4" class="title">
+                    <b>Anthed's Calendar</b>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" class="detail">
+                    <br>
+                    Un exemple d'utilisation du calendrier : plusieurs champs de saisie de dates dans une page.
+                    <br>Le calendrier se positionne au niveau du bouton correspondant et s'initialise à la date
+                    saisie ou à la date du jour si aucune date n'est renseignée ou si elle est incorrecte.
+                    <br>
+                    Pour modifier l'apparence des jours passés et/ou du jour actuel, faites varier les valeurs
+                    des paramètres PAST_ENABLED et TODAY_ENABLED du script.
+                    <br>
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td align="right" width="30%">
+                    <input type="text" maxLength="10" size="10" id="w0" value=""/>
+                </td>
+                <td align="left" width="10%">
+                    <a href="#">
+                        <img src="graphics/calendar.jpg" border="0" onclick="javascript:displayCalendar('w0', event);" id="calendarImg" alt="Modifier la date" title="Modifier la date"/>
+                    </a>            
+                </td>
+                <td align="right" width="30%">
+                    <input type="text" maxLength="10" size="10" id="w1" value=""/>
+                </td>
+                <td align="left" width="30%">
+                    <input type="button" value="..." onclick="displayCalendar('w1', event);"/>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" class="advice">
+                    <br>
+                    Si vous utilisez ce calendrier dans votre site, n'oubliez pas de mentionner mes coordonnées et
+                    de me verser moultes royalties à chaque page consultée <b>;)</b>.
+                    <br>Plus sérieusement, merci à ceux qui m'ont fait des retours sur <b>CodeS-SourceS</b>
+                    pour me suggérer des améliorations ou simplement pour me dire qu'ils utilisent ma petite
+                    contribution.
+                </td>
+            </tr>
+        </table>
+        <div id="calendar"></div>
+    </form>
+</body>
+
+</html>

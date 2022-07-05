@@ -1,0 +1,64 @@
+LIENS RESEAUX :
+<a target="_blank" href="https://twitter.com/PryyZouu"><img src="C:\Users\flow1\OneDrive\Bureau\CODE\SITE\PRYYY\IMAGE\twitter-CmonSite.webp"></a>
+<a target="_blank" href="https://www.instagram.com/emi_pryy/?hl=fr"><img src="C:\Users\flow1\OneDrive\Bureau\CODE\SITE\PRYYY\IMAGE\logo-instagram.webp"></a>
+<a target="_blank" href="https://www.twitch.tv/pryyy"><img src="C:\Users\flow1\OneDrive\Bureau\CODE\SITE\PRYYY\IMAGE\twitch.png"></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCR_HgKNphQOhZUaBlL_XFvw"><img src="C:\Users\flow1\OneDrive\Bureau\CODE\SITE\PRYYY\IMAGE\youtube.png"></a>
+<a target="_blank" href="https://discord.gg/SRqPaKe"><img src="C:\Users\flow1\OneDrive\Bureau\CODE\SITE\PRYYY\IMAGE\discord.jpg"></a>
+
+MAIL:
+<a href="mailto:flow.1772@gmail.com" class="btn btn-primary">Contactez-moi !</a>
+
+A MODIFIER
+
+API TWITCH :
+
+https://www.developpez.net/forums/d18514/javascript/general-javascript/debutant-faire-calendrier-html/
+
+
+
+https://camel-design.com/twitch-integrer-son-live-sur-son-site-internet/
+https://dev.twitch.tv/docs/embed/everything
+https://dev.twitch.tv/docs/embed
+https://www.hebergementwebs.com/conseils-astuces/comment-integrer-votre-flux-twitch-sur-wordpress
+
+https://dev.twitch.tv/docs/embed/video-and-clips#non-interactive-inline-frames-for-live-streams-and-vods
+https://dev.twitch.tv/docs/embed/video-and-clips#non-interactive-inline-frames-for-live-streams-and-vods
+https://dev.twitch.tv/docs/embed/everything
+https://dev.twitch.tv/docs/embed
+
+
+API YOUTUBE :
+
+
+https://www.youtube.com/embed/uNXbzZj-Lho?autoplay=1&mute=1 lien pour test
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+</iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0">
+</iframe>
+
+
+
+
+
+API INSTA :
+
+https://github.com/stories-app/instagram-api
+https://www.youtube.com/watch?v=ad1fh1vZptw
+https://www.presse-citron.net/instagram-ajoute-la-fonction-integrer-a-son-service/
+https://openclassrooms.com/forum/sujet/integrer-un-flux-instagram
+
+
+
+
+API TWITTER :
+
+
+https://help.twitter.com/fr/using-twitter/embed-twitter-feed
+
+
+TIK TOK 
+
+https://developers.tiktok.com/doc/Embed
+
